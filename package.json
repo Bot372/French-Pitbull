@@ -1,0 +1,23 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "This is our bot name Botdog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bot372/French-Pitbull.git"
+  },
+  "author": "Bot372",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bot372/French-Pitbull/issues"
+  },
+  "homepage": "https://github.com/Bot372/French-Pitbull#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
